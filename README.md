@@ -16,7 +16,7 @@ enhancing my language skills and further developing my computing expertise.
 
 ---
 
-Languages
+## Languages
 
 - English
 - French
