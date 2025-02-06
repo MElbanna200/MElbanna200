@@ -9,7 +9,7 @@ local community while continuously working on improving myself, including
 enhancing my language skills and further developing my computing expertise.
 
 - :earth_asia: I'm based in Belgium
-- :computer: See my porfolio [linkedin](www.linkedin.com/in/mohamed-ali-sayed-8062ab170)
+- :computer: See my porfolio [linkedin](https://www.linkedin.com/in/mohamed-ali-sayed-8062ab170)
 - :envelope: You can contact me at <moh.ellbanna@gmail.com>
 - :rocket: I'm currently working on [freelancer](https://www.freelancer.com/u/mohellbanna?frm=mohellbanna&sb=t)
 - :handshake: I'm open to collaborating on Deap learnning , Machine Learning Projects
